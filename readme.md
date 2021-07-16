@@ -71,3 +71,6 @@ Optionally, you can specify some arguments:
 ```
 
 You will notice that by forcing a door switch (via the `--switch` parameter) the win rate will increase.
+
+## License
+BSD 3-Clause License
